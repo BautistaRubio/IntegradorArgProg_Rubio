@@ -1,0 +1,8 @@
+.row{
+    background-color: gray;
+    color: white;
+    padding: 40px;
+    border-color: white;
+    border-width: 1px;
+    border-top-style: solid;    
+}
